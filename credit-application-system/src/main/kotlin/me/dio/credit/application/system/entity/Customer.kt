@@ -18,5 +18,4 @@ data class Customer(
         mappedBy = "customer")
     var credits: List<Credit> = mutableListOf(),
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY) val id: Long? = null
-
 )

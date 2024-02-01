@@ -2,12 +2,12 @@ spring:
   datasource:
     url: jdbc:h2:mem:credit_application_system_db
     username: miss
-    password: 1234
+    password:
   jpa:
     show-sql?: true
-    hibernate:
-      properties:
-        hibernate.format_sql: true
+    #hibernate:
+    properties:
+      hibernate.format_sql: true
   h2:
     console:
       enabled: true
@@ -15,3 +15,6 @@ spring:
       settings:
         trace: false
         web-allow-others: false
+springdoc:
+  swagger-vi:
+    path: /swagger-ui.html

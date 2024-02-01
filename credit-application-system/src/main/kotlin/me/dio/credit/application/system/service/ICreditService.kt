@@ -5,7 +5,7 @@ import java.util.UUID
 
 
 interface ICreditService {
-    fun save(credito: Credit): Credit
+    fun save(credit: Credit): Credit
     fun findAllByCustomer(customerId: Long): List<Credit>
     fun findByCreditCode(customerId: Long, creditCode: UUID): Credit
 }
