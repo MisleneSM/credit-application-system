@@ -22,7 +22,7 @@
 </p>
 
 <h3>Descrição do Projeto</h3>
-<p>Realizado uma API Rest para um Sistema de Analise de Solicitação de crédito de acordo com o diagrama abaixo. Projeto realizado através do desafio proposto pela Dio do Bootcamp Desenvolvimento Backend com Kotlin, administrado pela professora Camila Cavalvante.</p> <br>
+<p>Realizado uma API Rest para um Sistema de Analise de Solicitação de crédito de acordo com o diagrama abaixo. Projeto realizado através do desafio proposto pela Dio do Bootcamp Desenvolvimento Backend com Kotlin, administrado pela professora Camila Cavalcante.</p> <br>
 <figure>
 <p align="center">
   <img src="https://i.imgur.com/7phya16.png" height="350" width="450" alt="API para Sistema de Avaliação de Créditos"/><br>
